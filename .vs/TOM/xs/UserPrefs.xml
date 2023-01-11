@@ -1,3 +1,42 @@
 ﻿<Properties StartupConfiguration="{222F6887-64E8-4BE8-815F-7A7E069C2228}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.razor">
+    <Files>
+      <File FileName="wwwroot/css/app.css" Line="64" Column="32" />
+      <File FileName="Pages/Index.razor" Line="9" Column="99" />
+      <File FileName="wwwroot/index.html" Line="22" Column="93" />
+      <File FileName="Trope.cs" Line="1" Column="1" />
+      <File FileName="Trope-manager.cs" Line="1" Column="1" />
+      <File FileName="Pages/Tropeomatic.razor" Line="1" Column="1" />
+      <File FileName="Shared/NavMenu.razor" Line="19" Column="86" />
+      <File FileName="Shared/MainLayout.razor" Line="9" Column="9" />
+      <File FileName="App.razor" Line="12" Column="10" />
+      <File FileName="_Imports.razor" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Shared/MainLayout.razor.css" Line="82" Column="1" />
+      <File FileName="Shared/NavMenu.razor.css" Line="69" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TOM" expanded="True">
+            <Node name="TOM" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TOM PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
