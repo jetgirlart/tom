@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JXOYAAHLERPe1dYEoL4MPITKx8yw5fDsROEUeEaM1I3VYklUFiq5C8oTPvM40rVzJTOMegd/rqqlA86MiX/hcw==",
+  "dgSpecHash": "4onaIV+kdWFiKIG3yBoxSZpomTWwYb0D94tD9B95q04amreoPO21th0DHqyz3dJtRpsUQnihwpgu3KvZ64wqiw==",
   "success": true,
   "projectFilePath": "/Users/r0se/TOM/TOM.csproj",
   "expectedPackageFiles": [
@@ -30,8 +30,7 @@
     "/Users/r0se/.nuget/packages/microsoft.jsinterop.webassembly/7.0.1/microsoft.jsinterop.webassembly.7.0.1.nupkg.sha512",
     "/Users/r0se/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/r0se/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/r0se/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/r0se/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.1/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.1.nupkg.sha512"
+    "/Users/r0se/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,11 +1,22 @@
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'helvetica', sans-serif;
 }
+
 
 h1:focus {
     outline: none;
+    font-family: 'Special Elite', cursive;
+}
+
+h3 {
+    font-family: 'Special Elite', cursive;
+}
+
+h5 {
+    font-family: 'Special Elite', cursive;
 }
 
 a, .btn-link {
@@ -19,7 +30,7 @@ a, .btn-link {
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 .content {
@@ -32,11 +43,96 @@ a, .btn-link {
 
 .invalid {
     outline: 1px solid red;
-}
+}Ï
 
 .validation-message {
     color: red;
 }
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: auto;
+    margin: auto;
+}
+
+.card {
+    box-sizing: border-box;
+    margin: 1rem 1em;
+    width: 250px;
+    height: 325px;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+    border-radius: 1.3rem;
+    border: none;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+    .card:hover {
+        transform: translateY(-0.75rem);
+    }
+
+    .card .card-front {
+        padding: 22px;
+        position: absolute;
+        /*-webkit-backface-visibility: hidden;
+    backface-visibility: hidden;*/
+        border-radius: 1.3rem;
+        height: 100%;
+        width: 100%;
+    }
+
+    .card .card-back {
+        padding: 3px;
+        position: absolute;
+        background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+        border-radius: 1.3rem;
+        position: absolute;
+        /*-webkit-backface-visibility: hidden;
+    backface-visibility: hidden;*/
+        transform: rotateY(180deg);
+        height: 100%;
+        width: 100%;
+    }
+
+
+.is-flipped {
+    padding: 3px;
+}
+
+@media screen and (min-width: 20em) {
+    .card {
+        max-width: calc(100% - 1em);
+    }
+}
+
+@media screen and (min-width: 40em) {
+    .card {
+        max-width: calc(75% - 1em);
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .card {
+        max-width: calc(34% - 1em);
+    }
+}
+
+.centered {
+    margin: 0 auto;
+    padding: 0 1em;
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (min-width: 52em) {
+    .centered {
+        max-width: 75em;
+    }
+}
+
 
 #blazor-error-ui {
     background: lightyellow;
@@ -65,37 +161,4 @@ a, .btn-link {
 
     .blazor-error-boundary::after {
         content: "An error has occurred."
-    }
-
-.loading-progress {
-    position: relative;
-    display: block;
-    width: 8rem;
-    height: 8rem;
-    margin: 20vh auto 1rem auto;
-}
-
-    .loading-progress circle {
-        fill: none;
-        stroke: #e0e0e0;
-        stroke-width: 0.6rem;
-        transform-origin: 50% 50%;
-        transform: rotate(-90deg);
-    }
-
-        .loading-progress circle:last-child {
-            stroke: #1b6ec2;
-            stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
-            transition: stroke-dasharray 0.05s ease-in-out;
-        }
-
-.loading-progress-text {
-    position: absolute;
-    text-align: center;
-    font-weight: bold;
-    inset: calc(20vh + 3.25rem) 0 auto 0.2rem;
-}
-
-    .loading-progress-text:after {
-        content: var(--blazor-load-percentage-text, "Loading");
     }
