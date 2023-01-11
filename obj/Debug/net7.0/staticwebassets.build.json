@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OCYhD6WwlkH/LcAdjl7cFZXgZeVYv/4ipT4n8qw2OKE=",
+  "Hash": "lZUABJtfRthhBTN22U62OVuiO2dhJzafwyhUze/umkQ=",
   "Source": "TOM",
   "BasePath": "/",
   "Mode": "Root",
@@ -7172,6 +7172,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/wwwroot/profile.jpg",
+      "SourceId": "TOM",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/r0se/TOM/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/profile.jpg"
     }
   ]
 }

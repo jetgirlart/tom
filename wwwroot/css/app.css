@@ -5,7 +5,9 @@ html, body {
     font-family: 'helvetica', sans-serif;
 }
 
-
+h1 {
+    font-family: 'Special Elite', cursive;
+}
 h1:focus {
     outline: none;
     font-family: 'Special Elite', cursive;
@@ -59,7 +61,7 @@ a, .btn-link {
 
 .card {
     box-sizing: border-box;
-    margin: 1rem 1em;
+    margin: 1rem auto 1em auto;
     width: 250px;
     height: 325px;
     transition: transform 0.6s;
@@ -70,6 +72,7 @@ a, .btn-link {
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
+
     .card:hover {
         transform: translateY(-0.75rem);
     }
@@ -77,8 +80,6 @@ a, .btn-link {
     .card .card-front {
         padding: 22px;
         position: absolute;
-        /*-webkit-backface-visibility: hidden;
-    backface-visibility: hidden;*/
         border-radius: 1.3rem;
         height: 100%;
         width: 100%;

@@ -817,12 +817,12 @@
 /Users/r0se/TOM/obj/Debug/net7.0/staticwebassets.pack.json
 /Users/r0se/TOM/obj/Debug/net7.0/staticwebassets.build.json
 /Users/r0se/TOM/obj/Debug/net7.0/staticwebassets.development.json
-/Users/r0se/TOM/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
-/Users/r0se/TOM/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
 /Users/r0se/TOM/obj/Debug/net7.0/scopedcss/bundle/TOM.styles.css
-/Users/r0se/TOM/obj/Debug/net7.0/scopedcss/projectbundle/TOM.bundle.scp.css
 /Users/r0se/TOM/obj/Debug/net7.0/TOM.csproj.CopyComplete
 /Users/r0se/TOM/obj/Debug/net7.0/TOM.dll
 /Users/r0se/TOM/obj/Debug/net7.0/refint/TOM.dll
 /Users/r0se/TOM/obj/Debug/net7.0/TOM.pdb
 /Users/r0se/TOM/obj/Debug/net7.0/ref/TOM.dll
+/Users/r0se/TOM/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/r0se/TOM/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/r0se/TOM/obj/Debug/net7.0/scopedcss/projectbundle/TOM.bundle.scp.css
