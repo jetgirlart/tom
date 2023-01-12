@@ -1,0 +1,63 @@
+@page "/sixtropes"
+
+<PageTitle>Random Trope</PageTitle>
+
+
+<div class="centered">
+   <section class="cards"> 
+
+    @foreach (var trope in tropeList)
+    {
+       
+       <div class="card" @onclick="() => FlipMe(trope)" style=@(!trope.flipped ? "transform: rotateY(180deg);" : "")>
+
+        @if (trope.flipped == true){
+            
+            <div class="card-front" style=@(!trope.flipped ? "transform: rotateY(180deg);" : "")>
+                    <h3 class="card-title"> @trope.title </h3>
+                    <p> @trope.description</p> 
+                    @*<p>@trope.flipped</p>*@
+            </div>
+        }
+        else {
+           
+            <div class="card-back" style=@(!trope.flipped ? "transform: rotateY(180deg);" : "")>
+              
+            </div>   
+        }
+        </div>
+    
+    }
+    </section>
+</div>
+<br/>
+<div>
+    <p style="align-items: center; display:flex;"><button class="btn btn-lg btn-primary" style="margin: auto;" @onclick="OnNewTropClick">Draw Six New Tropes!</button></p>
+</div>
+
+
+@code {
+
+    List<Trope> tropeList = new();
+
+    TropeManager tropeManager = new TropeManager();
+    //The method called when button is clicked to add a ranomly picked trope to the list
+    public void OnNewTropClick()
+    {
+        tropeList.ForEach((Trope t)=>t.flipped=false);
+        tropeManager.clearSelected();
+        tropeList.Clear();
+        
+        for(int x=0;x<6;x++){
+            Trope? randomTrope = tropeManager.getRandomTrope();
+            if(randomTrope != null){
+                tropeList.Add(randomTrope);
+            }
+        } 
+    }    
+   //Logic for flipping the card from front to back
+    public void FlipMe(Trope trope) {
+        trope.flipped = !trope.flipped;    
+    }
+
+}
