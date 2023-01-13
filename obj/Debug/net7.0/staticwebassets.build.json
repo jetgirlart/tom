@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lZUABJtfRthhBTN22U62OVuiO2dhJzafwyhUze/umkQ=",
+  "Hash": "wva09jy2Ce6FRR9DEk242fCZeWYbVeGZJjo/zA+eymw=",
   "Source": "TOM",
   "BasePath": "/",
   "Mode": "Root",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.1/build/net7.0/blazor.webassembly.js"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.webassembly/6.0.13/build/net6.0/blazor.webassembly.js"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.2.v0yugsc0sn.js",
@@ -184,7 +184,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.authorization/7.0.1/lib/net7.0/Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.authorization/6.0.13/lib/net6.0/Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
@@ -201,7 +201,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components/7.0.1/lib/net7.0/Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components/6.0.13/lib/net6.0/Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll",
@@ -218,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.forms/7.0.1/lib/net7.0/Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.forms/6.0.13/lib/net6.0/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.web/7.0.1/lib/net7.0/Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.web/6.0.13/lib/net6.0/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -252,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.1/lib/net7.0/Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.components.webassembly/6.0.13/lib/net6.0/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.metadata/7.0.1/lib/net7.0/Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.aspnetcore.metadata/6.0.13/lib/net6.0/Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.CSharp.dll",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/lib/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.binder/7.0.1/lib/net7.0/Microsoft.Extensions.Configuration.Binder.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll",
@@ -337,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration/7.0.0/lib/net7.0/Microsoft.Extensions.Configuration.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration/6.0.0/lib/netstandard2.0/Microsoft.Extensions.Configuration.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll",
@@ -354,7 +354,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/lib/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/lib/netstandard2.0/Microsoft.Extensions.Configuration.FileExtensions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll",
@@ -371,7 +371,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.json/7.0.0/lib/net7.0/Microsoft.Extensions.Configuration.Json.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/lib/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
@@ -405,7 +405,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/lib/net7.0/Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.1/lib/net6.0/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -422,7 +422,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/lib/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/lib/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll",
@@ -439,7 +439,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/lib/net7.0/Microsoft.Extensions.FileProviders.Physical.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/lib/net6.0/Microsoft.Extensions.FileProviders.Physical.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll",
@@ -456,7 +456,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/lib/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/lib/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
@@ -473,7 +473,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.3/lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
@@ -490,7 +490,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.logging/7.0.0/lib/net7.0/Microsoft.Extensions.Logging.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.logging/6.0.0/lib/netstandard2.1/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
@@ -507,7 +507,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.options/7.0.0/lib/net7.0/Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.options/6.0.0/lib/netstandard2.1/Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
@@ -524,7 +524,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.primitives/7.0.0/lib/net7.0/Microsoft.Extensions.Primitives.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.extensions.primitives/6.0.0/lib/net6.0/Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll",
@@ -541,7 +541,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.jsinterop/7.0.1/lib/net7.0/Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.jsinterop/6.0.13/lib/net6.0/Microsoft.JSInterop.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll",
@@ -558,7 +558,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.jsinterop.webassembly/7.0.1/lib/net7.0/Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/microsoft.jsinterop.webassembly/6.0.13/lib/net6.0/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll",
@@ -1527,7 +1527,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/.nuget/packages/system.io.pipelines/7.0.0/lib/net7.0/System.IO.Pipelines.dll"
+      "OriginalItemSpec": "/Users/r0se/.nuget/packages/system.io.pipelines/6.0.3/lib/net6.0/System.IO.Pipelines.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll",
@@ -3502,38 +3502,21 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.ComponentModel.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/+kyROJzG.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/+VqttJQN.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json.dll.gz",
+      "RelativePath": "_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/075npR83.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/0HdVhpxT.gz",
@@ -3621,21 +3604,38 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Drawing.Primitives.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/1q5oMbSF.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/2dx3VVGI.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/2EbLeZJW.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/2hEqDktA.gz",
@@ -3687,6 +3687,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Net.Primitives.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/3c5OIKwP.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/3GwwrKv7.gz",
@@ -3755,23 +3772,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/45QBrFI5.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/4QkMO1q4.gz",
@@ -3910,6 +3910,23 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/6qx69bHA.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/7hNP5E2T.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -4046,6 +4063,23 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll"
     },
     {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/a0Rdn9yw.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll"
+    },
+    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/AnJ+KAqp.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -4080,6 +4114,23 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Console.dll"
     },
     {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/B9IgApAe.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/BAs2WyH6.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -4095,6 +4146,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.IO.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/BRuJ2XWI.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/buvVJ0cs.gz",
@@ -4146,6 +4214,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Linq.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/bzy7t4uR.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/c9FlREjv.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/CAON0YNg.gz",
@@ -4318,23 +4420,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Collections.Specialized.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/D1datu7y.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/d76o2sSM.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -4486,23 +4571,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.AppContext.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/E8joa5xB.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/eA7KIZPz.gz",
@@ -4913,23 +4981,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Formats.Asn1.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/IsVRqem9.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/IsXptX1M.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -4964,6 +5015,23 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.Handles.dll"
     },
     {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/JIIK663j.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll"
+    },
+    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/JKh8jsvq.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -4979,6 +5047,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/WindowsBase.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/K2puD6Ez.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/K4ZFW+WT.gz",
@@ -5134,21 +5219,21 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/ldA5y7MF.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/l9OLqdjq.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/Lm1mHKNa.gz",
@@ -5166,6 +5251,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/LWJOk8nu.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/lXJjWW8c.gz",
@@ -5304,23 +5406,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Security.SecureString.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/NKBcSydr.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/NPkg2ZaN.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -5406,23 +5491,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Data.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/oeCB+R8W.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/OEt2Ln3T.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -5457,23 +5525,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Threading.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/oKtM8zUh.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/oofJBbZM.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -5506,23 +5557,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/mscorlib.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/OUx8Dw+F.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/oV+tXagV.gz",
@@ -5593,21 +5627,21 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Net.Quic.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/pAfwweMw.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/pAP4wlUz.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll"
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/PFycGAWU.gz",
@@ -5695,23 +5729,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Thread.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/qP7o0E6K.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/qTr+TK6I.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -5780,6 +5797,23 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Net.Requests.dll"
     },
     {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/rTRCF+jp.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/rwEnJPo1.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -5831,23 +5865,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.IO.Compression.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/S7+MPWiP.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/SBWravI8.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -5897,23 +5914,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/slzHhVIE.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/sRHvqbAX.gz",
@@ -6035,21 +6035,38 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.ValueTuple.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/twLUAqCq.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/TUzuTd8i.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/U6cX0AsH.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/u7g+WxtL.gz",
@@ -6154,23 +6171,6 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/UkCe7oyr.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js"
-    },
-    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/UkNIra74.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -6186,40 +6186,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Globalization.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/Ullvj9ul.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/UlRSG06B.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/ulv9Xhx+.gz",
@@ -6290,6 +6256,23 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Xml.XmlDocument.dll"
     },
     {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/uxoeHu52.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/uzvqDGc4.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
@@ -6341,21 +6324,21 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Tasks.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/Vg3ex1wS.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/vKV9E0ro.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz",
-      "AssetKind": "Build",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll"
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/vmEYr3pz.gz",
@@ -6545,38 +6528,21 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.Serialization.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/xmjlPnum.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/XN1stepm.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/xtbKOnfR.gz",
-      "SourceId": "TOM",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll"
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/Xvc6ErG9.gz",
@@ -6749,21 +6715,38 @@
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.InteropServices.JavaScript.dll"
     },
     {
-      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/YtLpDxIg.gz",
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/yzBDmdTu.gz",
       "SourceId": "TOM",
       "SourceType": "Computed",
       "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll"
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/zcQeYz7O.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/zdQvBS+3.gz",
@@ -6798,6 +6781,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Overlapped.dll"
+    },
+    {
+      "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/ZnXSxd83.gz",
+      "SourceId": "TOM",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/r0se/TOM/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "/Users/r0se/TOM/obj/Debug/net7.0/build-gz/zsxxgEXS.gz",
