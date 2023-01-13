@@ -74,7 +74,7 @@ public class TropeManager
         this.tropeLibrary.Add(new Trope("The Fighter", "Martial artists, warriors, knights, boxers, ninjas, whatever.", new String[] { }));
         this.tropeLibrary.Add(new Trope("The Big Race", "They have been practicing the whole time for this one race.", new String[] { }));
         this.tropeLibrary.Add(new Trope("Plot Armor", "When a main character survives something that would otherwise kill a minor one.", new String[] { }));
-        this.tropeLibrary.Add(new Trope("Reformed Villian", "It's ok, the bad guy from earlier is now good.", new String[] { }));
+        this.tropeLibrary.Add(new Trope("Reformed Villain", "It's ok, the bad guy from earlier is now good.", new String[] { }));
         this.tropeLibrary.Add(new Trope("The Final Girl", "The last survivor of a story. Typically horror or disaster.", new String[] { }));
         this.tropeLibrary.Add(new Trope("Obvious Metaphor", "Shove that giant whale right down their throats.", new String[] { }));
         this.tropeLibrary.Add(new Trope("Conlang", "A constructed language, commonly for constructed cultures.", new String[] { }));
