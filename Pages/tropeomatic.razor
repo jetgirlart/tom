@@ -9,19 +9,19 @@
     @foreach (var trope in tropeList)
     {
        
-       <div class="card" @onclick="() => FlipMe(trope)" style=@(!trope.flipped ? "transform: rotateY(180deg);" : "")>
+       <div class="card" @onclick="() => FlipMe(trope)" style=@(!trope.Flipped ? "transform: rotateY(180deg);" : "")>
 
-        @if (trope.flipped == true){
+        @if (trope.Flipped == true){
             
-            <div class="card-front" style=@(!trope.flipped ? "transform: rotateY(180deg);" : "")>
-                    <h3 class="card-title"> @trope.title </h3>
-                    <p> @trope.description</p> 
+            <div class="card-front" style=@(!trope.Flipped ? "transform: rotateY(180deg);" : "")>
+                    <h3 class="card-title"> @trope.Title </h3>
+                    <p> @trope.Description</p> 
                     @*<p>@trope.flipped</p>*@
             </div>
         }
         else {
            
-            <div class="card-back" style=@(!trope.flipped ? "transform: rotateY(180deg);" : "")>
+            <div class="card-back" style=@(!trope.Flipped ? "transform: rotateY(180deg);" : "")>
               
             </div>   
         }
@@ -44,7 +44,7 @@
     //The method called when button is clicked to add a ranomly picked trope to the list
     public void OnNewTropClick()
     {
-        tropeList.ForEach((Trope t)=>t.flipped=false);
+        tropeList.ForEach((Trope t)=>t.Flipped=false);
         tropeManager.clearSelected();
         tropeList.Clear();
         
@@ -57,7 +57,7 @@
     }    
    //Logic for flipping the card from front to back
     public void FlipMe(Trope trope) {
-        trope.flipped = !trope.flipped;    
+        trope.Flipped = !trope.Flipped;    
     }
 
 }
