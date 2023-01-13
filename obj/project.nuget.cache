@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lT01m/Ml4jlLERg/XaUM/BFbOfvCPv9GzkBcjjpzIK4+mcouUU/B5flnvPvxdv82lTp3D0DdLUgPPdnS4wmhBA==",
+  "dgSpecHash": "CQ4CGkToYY9dZs/xDVurYExYM4ptCE5rx3KFgsi7wHVxwVuqsccJqeYd+ruEMVGqv7ev19Z7V6IeEVGduGA1Vw==",
   "success": true,
   "projectFilePath": "/Users/r0se/TOM/TOM.csproj",
   "expectedPackageFiles": [
@@ -32,8 +32,7 @@
     "/Users/r0se/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512",
     "/Users/r0se/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/r0se/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
-    "/Users/r0se/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
-    "/Users/r0se/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/6.0.13/microsoft.netcore.app.runtime.mono.browser-wasm.6.0.13.nupkg.sha512"
+    "/Users/r0se/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
