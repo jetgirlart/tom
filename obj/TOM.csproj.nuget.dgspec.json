@@ -40,12 +40,12 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[7.0.2, )"
             }
           },
           "imports": [

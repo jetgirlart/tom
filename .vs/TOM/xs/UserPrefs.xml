@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{222F6887-64E8-4BE8-815F-7A7E069C2228}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Tropeomaticsix.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Tropeomatic.razor">
     <Files>
       <File FileName="wwwroot/css/app.css" />
       <File FileName="Pages/Index.razor" Line="1" Column="1" />
       <File FileName="wwwroot/index.html" />
-      <File FileName="Trope.cs" Line="20" Column="1" />
+      <File FileName="Trope.cs" Line="15" Column="25" />
       <File FileName="Trope-manager.cs" Line="79" Column="46" />
-      <File FileName="Pages/Tropeomatic.razor" Line="6" Column="23" />
-      <File FileName="Shared/NavMenu.razor" Line="35" Column="51" />
-      <File FileName="Shared/MainLayout.razor" Line="18" Column="41" />
+      <File FileName="Pages/Tropeomatic.razor" Line="18" Column="27" />
+      <File FileName="Shared/NavMenu.razor" />
+      <File FileName="Shared/MainLayout.razor" />
       <File FileName="App.razor" Line="1" Column="1" />
       <File FileName="_Imports.razor" />
       <File FileName="Properties/launchSettings.json" />
@@ -17,19 +17,25 @@
       <File FileName="Pages/About.razor" Line="43" Column="1" />
       <File FileName="netlify.toml" />
       <File FileName="TOM.csproj" />
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="README.md" Line="1" Column="1" />
-      <File FileName="Pages/Tropeomaticsix.razor" Line="1" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="README.md" />
+      <File FileName="Pages/Tropeomaticsix.razor" Line="18" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TOM" expanded="True">
             <Node name="TOM" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Pages" expanded="True" />
               <Node name="Shared" expanded="True">
                 <Node name="MainLayout.razor" expanded="True" />
                 <Node name="NavMenu.razor" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
               </Node>
             </Node>
           </Node>

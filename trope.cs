@@ -1,18 +1,18 @@
 public class Trope{
   
-    public String title { get; }
+    public String Title { get; }
 
-    public String description {get;}
+    public String Description {get;}
 
-    public String[] examples {get;}
+    public String[] Examples {get;}
 
-    public bool flipped {get;set;}
+    public bool Flipped {get;set;}
 
     public Trope(String title, String description, String[] examples){
-        this.title = title;
-        this.description = description;
-        this.examples = examples;
-        this.flipped = false;
+        Title = title;
+        Description = description;
+        Examples = examples;
+        Flipped = false;
     
     }
 
