@@ -25,7 +25,7 @@ public class TropeManager
         this.tropeLibrary.Add(new Trope("Conspiracy", "Grab your tinfoil hats it's time for wild speculation!", new String[] { }));
         this.tropeLibrary.Add(new Trope("Vampires", "Monsters who drink the blood of humans. Are killed by a stake to the heart, silver weapons, or sunlight.", new String[] { }));
         this.tropeLibrary.Add(new Trope("Werewolves", "Monsters who are humans that have been bit by another werewolf and can now transform into either a large wolf or some wolf/human hybrid.", new String[] { }));
-        this.tropeLibrary.Add(new Trope("Demons", "Unholy evil mosnters, typically from hell.", new String[] { }));
+        this.tropeLibrary.Add(new Trope("Demons", "Unholy evil monsters, typically from hell.", new String[] { }));
         this.tropeLibrary.Add(new Trope("Battle Pets", "Small animals or creatures that the main characters use to fight with.", new String[] { }));
         this.tropeLibrary.Add(new Trope("Magical High School", "A specialised high school for kids with some manner of magic prowess or abilities", new String[] { }));
         this.tropeLibrary.Add(new Trope("Friends to Lovers", "Characters who are platonic friends who become lovers.", new String[] { }));
